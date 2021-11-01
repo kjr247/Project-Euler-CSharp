@@ -47,10 +47,13 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Euler12Tests - Copy.cs" />
+    <Compile Include="Euler13.cs" />
     <Compile Include="Euler12.cs" />
-    <Compile Include="Euler12Tests.cs" />
+    <Compile Include="Euler13Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
