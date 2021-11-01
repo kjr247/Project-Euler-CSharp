@@ -5,7 +5,7 @@ using Euler;
 namespace Euler
 {
     [TestClass]
-    public class UnitTest1
+    public class Euler12Tests
     {
         [TestMethod]
         public void TestMethod0()
