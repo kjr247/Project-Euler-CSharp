@@ -51,8 +51,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Euler12Tests - Copy.cs" />
+    <Compile Include="Euler14.cs" />
     <Compile Include="Euler13.cs" />
     <Compile Include="Euler12.cs" />
+    <Compile Include="Euler14Tests.cs" />
     <Compile Include="Euler13Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
